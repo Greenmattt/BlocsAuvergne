@@ -1,0 +1,1824 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>BlocsAuvergne.kml</name>
+	<StyleMap id="m_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="mm_marker_color_1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#mm_marker_color_19</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#mm_marker_color_18</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="mm_marker_color_18">
+		<IconStyle>
+			<color>ff00b371</color>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00b371</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff00b371</color>
+		</PolyStyle>
+	</Style>
+	<Style id="mm_marker_color_19">
+		<IconStyle>
+			<color>ff00b371</color>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00b371</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff00b371</color>
+		</PolyStyle>
+	</Style>
+	<Style id="mm_marker_color_10">
+		<IconStyle>
+			<color>ff00b371</color>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00b371</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff00b371</color>
+		</PolyStyle>
+	</Style>
+	<Style id="mm_marker_color_11">
+		<IconStyle>
+			<color>ff00b371</color>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00b371</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff00b371</color>
+		</PolyStyle>
+	</Style>
+	<Style id="mm_marker_color_12">
+		<IconStyle>
+			<color>ff00b371</color>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00b371</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff00b371</color>
+		</PolyStyle>
+	</Style>
+	<Style id="mm_marker_color_13">
+		<IconStyle>
+			<color>ff00b371</color>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00b371</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff00b371</color>
+		</PolyStyle>
+	</Style>
+	<Style id="mm_marker_color_14">
+		<IconStyle>
+			<color>ff00b371</color>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00b371</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff00b371</color>
+		</PolyStyle>
+	</Style>
+	<Style id="mm_marker_color_15">
+		<IconStyle>
+			<color>ffff5500</color>
+		</IconStyle>
+		<LineStyle>
+			<color>ffd4bc00</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ffd4bc00</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="mm_marker_color_150">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#mm_marker_color_159</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#mm_marker_color_1564</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="mm_marker_color_151">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#mm_marker_color_1533</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#mm_marker_color_1553</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="mm_marker_color_152">
+		<IconStyle>
+			<color>ffffaa00</color>
+		</IconStyle>
+		<LineStyle>
+			<color>ffd4bc00</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ffd4bc00</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="mm_marker_color_1565">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#mm_marker_color_1517</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#mm_marker_color_1549</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="mm_marker_color_153">
+		<IconStyle>
+			<color>ffffaa00</color>
+		</IconStyle>
+		<LineStyle>
+			<color>ffd4bc00</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ffd4bc00</color>
+		</PolyStyle>
+	</Style>
+	<Style id="mm_marker_color_1566">
+		<IconStyle>
+			<color>ffffaa00</color>
+		</IconStyle>
+		<LineStyle>
+			<color>ffd4bc00</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ffd4bc00</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="mm_marker_color_154">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#mm_marker_color_1543</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#mm_marker_color_1550</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="mm_marker_color_1567">
+		<IconStyle>
+			<color>ffffaa00</color>
+		</IconStyle>
+		<LineStyle>
+			<color>ffd4bc00</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ffd4bc00</color>
+		</PolyStyle>
+	</Style>
+	<Style id="mm_marker_color_155">
+		<IconStyle>
+			<color>ff00ffff</color>
+		</IconStyle>
+		<LineStyle>
+			<color>ffd4bc00</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ffd4bc00</color>
+		</PolyStyle>
+	</Style>
+	<Style id="mm_marker_color_156">
+		<IconStyle>
+			<color>ffffaa00</color>
+		</IconStyle>
+		<LineStyle>
+			<color>ffd4bc00</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ffd4bc00</color>
+		</PolyStyle>
+	</Style>
+	<Style id="mm_marker_color_157">
+		<IconStyle>
+			<color>ff0000ff</color>
+		</IconStyle>
+		<LineStyle>
+			<color>ffd4bc00</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ffd4bc00</color>
+		</PolyStyle>
+	</Style>
+	<Style id="mm_marker_color_158">
+		<IconStyle>
+			<color>ffff5500</color>
+		</IconStyle>
+		<LineStyle>
+			<color>ffd4bc00</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ffd4bc00</color>
+		</PolyStyle>
+	</Style>
+	<Style id="mm_marker_color_159">
+		<IconStyle>
+			<color>ffffaa00</color>
+		</IconStyle>
+		<LineStyle>
+			<color>ffd4bc00</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ffd4bc00</color>
+		</PolyStyle>
+	</Style>
+	<Style id="mm_marker_color_1510">
+		<IconStyle>
+			<color>ff0000ff</color>
+		</IconStyle>
+		<LineStyle>
+			<color>ffd4bc00</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ffd4bc00</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="mm_marker_color_1511">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#mm_marker_color_1524</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#mm_marker_color_1567</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="mm_marker_color_1512">
+		<IconStyle>
+			<color>ff0055ff</color>
+		</IconStyle>
+		<LineStyle>
+			<color>ffd4bc00</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ffd4bc00</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="mm_marker_color_1513">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#mm_marker_color_158</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#mm_marker_color_1545</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="mm_marker_color_1514">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#mm_marker_color_1532</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#mm_marker_color_152</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="mm_marker_color_1515">
+		<IconStyle>
+			<color>ffffaa00</color>
+		</IconStyle>
+		<LineStyle>
+			<color>ffd4bc00</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ffd4bc00</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="mm_marker_color_1516">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#mm_marker_color_1518</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#mm_marker_color_1556</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="mm_marker_color_1517">
+		<IconStyle>
+			<color>ff0000ff</color>
+		</IconStyle>
+		<LineStyle>
+			<color>ffd4bc00</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ffd4bc00</color>
+		</PolyStyle>
+	</Style>
+	<Style id="mm_marker_color_1518">
+		<IconStyle>
+			<color>ffffaa00</color>
+		</IconStyle>
+		<LineStyle>
+			<color>ffd4bc00</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ffd4bc00</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="mm_marker_color_1519">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#mm_marker_color_1520</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#mm_marker_color_1541</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="mm_marker_color_1520">
+		<IconStyle>
+			<color>ff0055ff</color>
+		</IconStyle>
+		<LineStyle>
+			<color>ffd4bc00</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ffd4bc00</color>
+		</PolyStyle>
+	</Style>
+	<Style id="mm_marker_color_1521">
+		<IconStyle>
+			<color>ff0055ff</color>
+		</IconStyle>
+		<LineStyle>
+			<color>ffd4bc00</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ffd4bc00</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="mm_marker_color_1522">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#mm_marker_color_1548</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#mm_marker_color_1540</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="mm_marker_color_1523">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#mm_marker_color_1547</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#mm_marker_color_1534</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="mm_marker_color_1532">
+		<IconStyle>
+			<color>ffffaa00</color>
+		</IconStyle>
+		<LineStyle>
+			<color>ffd4bc00</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ffd4bc00</color>
+		</PolyStyle>
+	</Style>
+	<Style id="mm_marker_color_1524">
+		<IconStyle>
+			<color>ffffaa00</color>
+		</IconStyle>
+		<LineStyle>
+			<color>ffd4bc00</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ffd4bc00</color>
+		</PolyStyle>
+	</Style>
+	<Style id="mm_marker_color_1525">
+		<IconStyle>
+			<color>ff0000ff</color>
+		</IconStyle>
+		<LineStyle>
+			<color>ffd4bc00</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ffd4bc00</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="mm_marker_color_1526">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#mm_marker_color_1558</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#mm_marker_color_1531</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="mm_marker_color_1527">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#mm_marker_color_1552</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#mm_marker_color_1530</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="mm_marker_color_1528">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#mm_marker_color_1535</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#mm_marker_color_1566</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="mm_marker_color_1529">
+		<IconStyle>
+			<color>ff0000ff</color>
+		</IconStyle>
+		<LineStyle>
+			<color>ffd4bc00</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ffd4bc00</color>
+		</PolyStyle>
+	</Style>
+	<Style id="mm_marker_color_1530">
+		<IconStyle>
+			<color>ff0055ff</color>
+		</IconStyle>
+		<LineStyle>
+			<color>ffd4bc00</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ffd4bc00</color>
+		</PolyStyle>
+	</Style>
+	<Style id="mm_marker_color_1531">
+		<IconStyle>
+			<color>ff0000ff</color>
+		</IconStyle>
+		<LineStyle>
+			<color>ffd4bc00</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ffd4bc00</color>
+		</PolyStyle>
+	</Style>
+	<Style id="mm_marker_color_1539">
+		<IconStyle>
+			<color>ffff5500</color>
+		</IconStyle>
+		<LineStyle>
+			<color>ffd4bc00</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ffd4bc00</color>
+		</PolyStyle>
+	</Style>
+	<Style id="mm_marker_color_1533">
+		<IconStyle>
+			<color>ffffaa00</color>
+		</IconStyle>
+		<LineStyle>
+			<color>ffd4bc00</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ffd4bc00</color>
+		</PolyStyle>
+	</Style>
+	<Style id="mm_marker_color_1534">
+		<IconStyle>
+			<color>ff0000ff</color>
+		</IconStyle>
+		<LineStyle>
+			<color>ffd4bc00</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ffd4bc00</color>
+		</PolyStyle>
+	</Style>
+	<Style id="mm_marker_color_1535">
+		<IconStyle>
+			<color>ffffaa00</color>
+		</IconStyle>
+		<LineStyle>
+			<color>ffd4bc00</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ffd4bc00</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="mm_marker_color_1536">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#mm_marker_color_155</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#mm_marker_color_1537</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="mm_marker_color_1537">
+		<IconStyle>
+			<color>ff00ffff</color>
+		</IconStyle>
+		<LineStyle>
+			<color>ffd4bc00</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ffd4bc00</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="mm_marker_color_1538">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#mm_marker_color_1515</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#mm_marker_color_156</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="mm_marker_color_1540">
+		<IconStyle>
+			<color>ffff5500</color>
+		</IconStyle>
+		<LineStyle>
+			<color>ffd4bc00</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ffd4bc00</color>
+		</PolyStyle>
+	</Style>
+	<Style id="mm_marker_color_1541">
+		<IconStyle>
+			<color>ff0055ff</color>
+		</IconStyle>
+		<LineStyle>
+			<color>ffd4bc00</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ffd4bc00</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="mm_marker_color_1542">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#mm_marker_color_1557</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#mm_marker_color_1525</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="mm_marker_color_1543">
+		<IconStyle>
+			<color>ffd4bc00</color>
+		</IconStyle>
+		<LineStyle>
+			<color>ffd4bc00</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ffd4bc00</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="mm_marker_color_1544">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#mm_marker_color_15</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#mm_marker_color_1539</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="mm_marker_color_1545">
+		<IconStyle>
+			<color>ffff5500</color>
+		</IconStyle>
+		<LineStyle>
+			<color>ffd4bc00</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ffd4bc00</color>
+		</PolyStyle>
+	</Style>
+	<Style id="mm_marker_color_1546">
+		<IconStyle>
+			<color>ffffaa00</color>
+		</IconStyle>
+		<LineStyle>
+			<color>ffd4bc00</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ffd4bc00</color>
+		</PolyStyle>
+	</Style>
+	<Style id="mm_marker_color_1547">
+		<IconStyle>
+			<color>ff0000ff</color>
+		</IconStyle>
+		<LineStyle>
+			<color>ffd4bc00</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ffd4bc00</color>
+		</PolyStyle>
+	</Style>
+	<Style id="mm_marker_color_1548">
+		<IconStyle>
+			<color>ffff5500</color>
+		</IconStyle>
+		<LineStyle>
+			<color>ffd4bc00</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ffd4bc00</color>
+		</PolyStyle>
+	</Style>
+	<Style id="mm_marker_color_1549">
+		<IconStyle>
+			<color>ff0000ff</color>
+		</IconStyle>
+		<LineStyle>
+			<color>ffd4bc00</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ffd4bc00</color>
+		</PolyStyle>
+	</Style>
+	<Style id="mm_marker_color_1550">
+		<IconStyle>
+			<color>ffd4bc00</color>
+		</IconStyle>
+		<LineStyle>
+			<color>ffd4bc00</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ffd4bc00</color>
+		</PolyStyle>
+	</Style>
+	<Style id="mm_marker_color_1551">
+		<IconStyle>
+			<color>ff0000ff</color>
+		</IconStyle>
+		<LineStyle>
+			<color>ffd4bc00</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ffd4bc00</color>
+		</PolyStyle>
+	</Style>
+	<Style id="mm_marker_color_1552">
+		<IconStyle>
+			<color>ff0055ff</color>
+		</IconStyle>
+		<LineStyle>
+			<color>ffd4bc00</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ffd4bc00</color>
+		</PolyStyle>
+	</Style>
+	<Style id="mm_marker_color_1553">
+		<IconStyle>
+			<color>ffffaa00</color>
+		</IconStyle>
+		<LineStyle>
+			<color>ffd4bc00</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ffd4bc00</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="mm_marker_color_1554">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#mm_marker_color_157</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#mm_marker_color_1510</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="mm_marker_color_1555">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#mm_marker_color_1512</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#mm_marker_color_1521</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="mm_marker_color_1556">
+		<IconStyle>
+			<color>ffffaa00</color>
+		</IconStyle>
+		<LineStyle>
+			<color>ffd4bc00</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ffd4bc00</color>
+		</PolyStyle>
+	</Style>
+	<Style id="mm_marker_color_1557">
+		<IconStyle>
+			<color>ff0000ff</color>
+		</IconStyle>
+		<LineStyle>
+			<color>ffd4bc00</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ffd4bc00</color>
+		</PolyStyle>
+	</Style>
+	<Style id="mm_marker_color_1558">
+		<IconStyle>
+			<color>ff0000ff</color>
+		</IconStyle>
+		<LineStyle>
+			<color>ffd4bc00</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ffd4bc00</color>
+		</PolyStyle>
+	</Style>
+	<Style id="mm_marker_color_1559">
+		<IconStyle>
+			<color>ff0000ff</color>
+		</IconStyle>
+		<LineStyle>
+			<color>ffd4bc00</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ffd4bc00</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="mm_marker_color_1560">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#mm_marker_color_1546</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#mm_marker_color_153</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="mm_marker_color_1561">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#mm_marker_color_1559</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#mm_marker_color_1529</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="mm_marker_color_1562">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#mm_marker_color_1551</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#mm_marker_color_1563</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="mm_marker_color_1563">
+		<IconStyle>
+			<color>ff0000ff</color>
+		</IconStyle>
+		<LineStyle>
+			<color>ffd4bc00</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ffd4bc00</color>
+		</PolyStyle>
+	</Style>
+	<Style id="mm_marker_color_1564">
+		<IconStyle>
+			<color>ffffaa00</color>
+		</IconStyle>
+		<LineStyle>
+			<color>ffd4bc00</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ffd4bc00</color>
+		</PolyStyle>
+	</Style>
+	<Style id="mm_marker_color_16">
+		<IconStyle>
+			<color>ff2257ff</color>
+		</IconStyle>
+		<LineStyle>
+			<color>ff2257ff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff2257ff</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="mm_marker_color_161">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#mm_marker_color_160</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#mm_marker_color_16</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="mm_marker_color_160">
+		<IconStyle>
+			<color>ff2257ff</color>
+		</IconStyle>
+		<LineStyle>
+			<color>ff2257ff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff2257ff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="mm_marker_color_17">
+		<IconStyle>
+			<color>ff2257ff</color>
+		</IconStyle>
+		<LineStyle>
+			<color>ff2257ff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff2257ff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="mm_marker_color_2">
+		<IconStyle>
+			<color>ff00b371</color>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00b371</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff00b371</color>
+		</PolyStyle>
+	</Style>
+	<Style id="mm_marker_color_3">
+		<IconStyle>
+			<color>ff00b371</color>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00b371</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff00b371</color>
+		</PolyStyle>
+	</Style>
+	<Style id="mm_marker_color_4">
+		<IconStyle>
+			<color>ff00b371</color>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00b371</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff00b371</color>
+		</PolyStyle>
+	</Style>
+	<Style id="mm_marker_color_5">
+		<IconStyle>
+			<color>ff00b371</color>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00b371</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff00b371</color>
+		</PolyStyle>
+	</Style>
+	<Style id="mm_marker_color_6">
+		<IconStyle>
+			<color>ff00b371</color>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00b371</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff00b371</color>
+		</PolyStyle>
+	</Style>
+	<Style id="mm_marker_color_7">
+		<IconStyle>
+			<color>ff00b371</color>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00b371</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff00b371</color>
+		</PolyStyle>
+	</Style>
+	<Style id="mm_marker_color_8">
+		<IconStyle>
+			<color>ff00b371</color>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00b371</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff00b371</color>
+		</PolyStyle>
+	</Style>
+	<Style id="mm_marker_color_9">
+		<IconStyle>
+			<color>ff00b371</color>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00b371</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff00b371</color>
+		</PolyStyle>
+	</Style>
+	<Style id="s_ylw-pushpin">
+		<IconStyle>
+			<color>ff0055ff</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+		</LabelStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<color>ff0055ff</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+		</LabelStyle>
+	</Style>
+	<Folder>
+		<name>Blocs Auvergne</name>
+		<open>1</open>
+		<Folder>
+			<name>Cournols</name>
+			<description>Les blocs situés dans le village de Cournols et aux alentours</description>
+			<Placemark>
+				<name>Cournols Blocs Centre</name>
+				<description>SIte principal connu
+La légende raconte qu&apos;on peut trouver des blocs en se dirigeant vers la vallée de la Monne.
+Mais spoiler: Des blocs forrestiers sont compliqués à trouver avec  la vue satellite</description>
+				<LookAt>
+					<gx:TimeStamp><when>2024-05-10T15:52:51Z</when>
+</gx:TimeStamp>
+					<longitude>3.034362987132305</longitude>
+					<latitude>45.63642209378614</latitude>
+					<altitude>0</altitude>
+					<heading>-31.71696802377349</heading>
+					<tilt>39.30307596588018</tilt>
+					<range>273.8711654497184</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#mm_marker_color_1544</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>3.034245750880318,45.63623375244904,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Point d&apos;interrogation</name>
+				<description>Marqué dans l&apos;ancien topo, mais lorsque je suis allé voir je n&apos;ai trouvé que des ronces
+Venir avec un sécateur au minimum</description>
+				<LookAt>
+					<gx:TimeStamp><when>2024-05-10T15:52:51Z</when>
+</gx:TimeStamp>
+					<longitude>3.03728635258008</longitude>
+					<latitude>45.63625039987284</latitude>
+					<altitude>0</altitude>
+					<heading>0.001707029369259054</heading>
+					<tilt>28.90254652199281</tilt>
+					<range>208.2364421575767</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#mm_marker_color_1527</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>3.03707306910372,45.63588289838732,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Blocs du Contrebas</name>
+				<description>Blocs fun et peu exposés, compressions pinces et règles</description>
+				<LookAt>
+					<gx:TimeStamp><when>2024-05-10T15:52:51Z</when>
+</gx:TimeStamp>
+					<longitude>3.034446993575726</longitude>
+					<latitude>45.63590580879186</latitude>
+					<altitude>0</altitude>
+					<heading>33.2438504231534</heading>
+					<tilt>29.45003281465032</tilt>
+					<range>176.4323299851719</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#mm_marker_color_1522</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>3.034346595345376,45.63559805177122,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>769</name>
+				<description>Le toit 769</description>
+				<LookAt>
+					<gx:TimeStamp><when>2024-05-10T15:52:51Z</when>
+</gx:TimeStamp>
+					<longitude>3.034710690781097</longitude>
+					<latitude>45.63613624869937</latitude>
+					<altitude>0</altitude>
+					<heading>16.19365551464221</heading>
+					<tilt>41.36371910323195</tilt>
+					<range>160.1328267042781</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#mm_marker_color_1516</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>3.034230329408458,45.63601779613204,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Dalle amusante</name>
+				<LookAt>
+					<gx:TimeStamp><when>2024-05-10T15:52:51Z</when>
+</gx:TimeStamp>
+					<longitude>3.034710690781097</longitude>
+					<latitude>45.63613624869937</latitude>
+					<altitude>0</altitude>
+					<heading>16.19365551464221</heading>
+					<tilt>41.36371910323195</tilt>
+					<range>160.1328267042781</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#mm_marker_color_151</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>3.034238592908982,45.63591239870532,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Peau d&apos;âne</name>
+				<description>Du gros grain, des gros mouvs au ras du sol</description>
+				<LookAt>
+					<gx:TimeStamp><when>2024-05-10T15:52:51Z</when>
+</gx:TimeStamp>
+					<longitude>3.03435476298646</longitude>
+					<latitude>45.63695425896811</latitude>
+					<altitude>0</altitude>
+					<heading>15.51079877684934</heading>
+					<tilt>25.74922066562635</tilt>
+					<range>181.7641007645841</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#mm_marker_color_1538</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>3.03454942362207,45.63669195188642,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Le pas de la fée clochette</name>
+				<description>Une dalle en 6A un peu mentale
+avec d&apos;autres blocs amusant sur les barres aux alentours
+Un peu haut et réceps questionnables mais sinon ça va</description>
+				<LookAt>
+					<gx:TimeStamp><when>2024-05-10T15:52:51Z</when>
+</gx:TimeStamp>
+					<longitude>3.035286146197836</longitude>
+					<latitude>45.63633587923878</latitude>
+					<altitude>0</altitude>
+					<heading>15.51171886617099</heading>
+					<tilt>31.41057238043599</tilt>
+					<range>138.5581958361034</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#mm_marker_color_1514</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>3.035283032689184,45.63622317863408,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Les blocs du haut </name>
+				<description>Des cochonneries en depart assis, notamment une belle flèche et un bloc douteux posé sur un autre bloc</description>
+				<LookAt>
+					<gx:TimeStamp><when>2024-05-10T15:52:51Z</when>
+</gx:TimeStamp>
+					<longitude>3.035319210473453</longitude>
+					<latitude>45.63639977411033</latitude>
+					<altitude>0</altitude>
+					<heading>15.51174250453818</heading>
+					<tilt>31.41056897021925</tilt>
+					<range>137.8296773446152</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#mm_marker_color_150</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>3.03505986877028,45.63643008973619,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Lowball</name>
+				<description>Une autre cochonnerie en départ assis, au ras du sol sur prises taillées
+Spoiler: c&apos;est dur</description>
+				<LookAt>
+					<gx:TimeStamp><when>2024-05-10T15:52:51Z</when>
+</gx:TimeStamp>
+					<longitude>3.0357999554</longitude>
+					<latitude>45.63620209194875</latitude>
+					<altitude>0</altitude>
+					<heading>15.51235399635065</heading>
+					<tilt>39.29936978096827</tilt>
+					<range>147.7188408791799</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#mm_marker_color_1528</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>3.035437788005386,45.6360804072549,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Bloc isolé du Contrebas</name>
+				<description>Un bloc sympathique plusieurs passages</description>
+				<LookAt>
+					<gx:TimeStamp><when>2024-05-10T15:52:51Z</when>
+</gx:TimeStamp>
+					<longitude>3.035326991778033</longitude>
+					<latitude>45.6365518704632</latitude>
+					<altitude>0</altitude>
+					<heading>35.9711361806285</heading>
+					<tilt>22.60726648527731</tilt>
+					<range>117.4025920740359</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#mm_marker_color_1511</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>3.035342680349515,45.63655853694284,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Sottises de la fôret</name>
+				<description>La marche d&apos;approche est plus technique que les rochers</description>
+				<LookAt>
+					<gx:TimeStamp><when>2024-05-10T15:52:51Z</when>
+</gx:TimeStamp>
+					<longitude>3.03597288241249</longitude>
+					<latitude>45.63655603992768</latitude>
+					<altitude>0</altitude>
+					<heading>35.97159793882451</heading>
+					<tilt>22.6072728332519</tilt>
+					<range>119.2410808345441</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#mm_marker_color_1560</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>3.03570913943781,45.6366915851893,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Chaos?</name>
+				<LookAt>
+					<gx:TimeStamp><when>2024-05-10T15:52:51Z</when>
+</gx:TimeStamp>
+					<longitude>3.030864656560118</longitude>
+					<latitude>45.63615871097115</latitude>
+					<altitude>0</altitude>
+					<heading>35.96942411700177</heading>
+					<tilt>56.91982705037928</tilt>
+					<range>413.9259232441027</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#mm_marker_color_1523</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>3.029148053728357,45.63536393602082,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Point d&apos;interrogation</name>
+				<LookAt>
+					<gx:TimeStamp><when>2024-05-10T15:52:51Z</when>
+</gx:TimeStamp>
+					<longitude>3.047177279353875</longitude>
+					<latitude>45.64105709218551</latitude>
+					<altitude>0</altitude>
+					<heading>147.6577560664856</heading>
+					<tilt>34.84277593808936</tilt>
+					<range>267.4801742347326</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#mm_marker_color_1565</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>3.047324228200246,45.64129017804146,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ptetre que ça se grimpe</name>
+				<LookAt>
+					<gx:TimeStamp><when>2024-05-10T15:52:51Z</when>
+</gx:TimeStamp>
+					<longitude>3.028055810363243</longitude>
+					<latitude>45.63295545209753</latitude>
+					<altitude>0</altitude>
+					<heading>-178.0676772725853</heading>
+					<tilt>54.28701613746495</tilt>
+					<range>294.4637094897075</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#mm_marker_color_1542</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>3.028548631060195,45.63317490259474,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Cailloux?</name>
+				<LookAt>
+					<gx:TimeStamp><when>2024-05-10T15:52:51Z</when>
+</gx:TimeStamp>
+					<longitude>3.039787687730047</longitude>
+					<latitude>45.63185279435371</latitude>
+					<altitude>0</altitude>
+					<heading>173.5861916947744</heading>
+					<tilt>50.62705819367378</tilt>
+					<range>331.6032018952445</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#mm_marker_color_1561</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>3.03910359345376,45.63290849966474,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Cailloux?</name>
+				<LookAt>
+					<gx:TimeStamp><when>2024-05-10T15:52:51Z</when>
+</gx:TimeStamp>
+					<longitude>3.038138930270007</longitude>
+					<latitude>45.63415005972844</latitude>
+					<altitude>0</altitude>
+					<heading>35.97471093078002</heading>
+					<tilt>60.00289503796362</tilt>
+					<range>372.1760353446073</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#mm_marker_color_1526</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>3.037109720936029,45.63356792291606,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Projet abandonné?</name>
+				<description>Ceci est le bloc qui semble être le projet légendaires abandonné il y a des decénnies pour sa difficulté extrême... (Et son engagement élevé)
+Il existe? 
+- Oui.
+ça se grimpe? 
+-Probablement.
+La récep est bonne?
+- La quoi?
+C&apos;est dur ?
+- venez tester</description>
+				<LookAt>
+					<gx:TimeStamp><when>2024-05-10T15:52:51Z</when>
+</gx:TimeStamp>
+					<longitude>3.050304397587214</longitude>
+					<latitude>45.64177218826469</latitude>
+					<altitude>0</altitude>
+					<heading>-171.2486019788717</heading>
+					<tilt>44.54073840918436</tilt>
+					<range>156.222646558225</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#mm_marker_color_1536</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>3.050586626324154,45.64198084943327,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Mini chaos?</name>
+				<LookAt>
+					<gx:TimeStamp><when>2024-05-10T15:52:51Z</when>
+</gx:TimeStamp>
+					<longitude>3.048751489885904</longitude>
+					<latitude>45.64137633880861</latitude>
+					<altitude>0</altitude>
+					<heading>-171.2497122791628</heading>
+					<tilt>44.5408741316894</tilt>
+					<range>177.7652553454262</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#mm_marker_color_1513</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>3.049183036388636,45.64165739903796,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Chaos?</name>
+				<LookAt>
+					<gx:TimeStamp><when>2024-05-10T15:52:51Z</when>
+</gx:TimeStamp>
+					<longitude>3.04649594773561</longitude>
+					<latitude>45.63735472815204</latitude>
+					<altitude>0</altitude>
+					<heading>41.94761038688607</heading>
+					<tilt>39.44068614217365</tilt>
+					<range>282.0206258893589</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#mm_marker_color_1554</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>3.046022101969186,45.63711865899214,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Point d&apos;interrogation</name>
+				<LookAt>
+					<gx:TimeStamp><when>2024-05-10T15:52:51Z</when>
+</gx:TimeStamp>
+					<longitude>3.02782465471652</longitude>
+					<latitude>45.63448110875461</latitude>
+					<altitude>0</altitude>
+					<heading>35.96717167177215</heading>
+					<tilt>53.23642941571348</tilt>
+					<range>357.2125525713481</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#mm_marker_color_1562</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>3.026524040434926,45.63382585741041,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Capucin</name>
+			<description>Les blocs du Capucin, le site existe bel est bien il y a au moins une grosse vingtaine de blocs, tous dans la forêt. La carte est pour l&apos;instant incomplète car les coordonnées ne peuvent se trouver que sur place (inivisble en satellite)</description>
+			<Placemark id="15">
+				<name>Le maxi bloc du capucin</name>
+				<description><![CDATA[<pre id="com.exlyo.mapmarker.description_p_tag"></pre>
+Bloc central du Capucin mais la trainée de bloc descend jusqu'au fond de la vallée]]></description>
+				<TimeStamp><when>2024-05-10T15:52:51Z</when>
+</TimeStamp>
+				<styleUrl>#mm_marker_color_154</styleUrl>
+				<ExtendedData>
+					<Data name="com_exlyo_mapmarker_piniconcode">
+						<value>-1</value>
+					</Data>
+					<Data name="com_exlyo_mapmarker_customfields">
+						<value>[]</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>2.800249345600605,45.56153322741197,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Vallée de la Fontaine Salée</name>
+			<description>Les blocs de vallée de la fontaine Salée et alentours</description>
+			<Placemark id="16">
+				<name>Point d&apos;interrogation</name>
+				<description><![CDATA[<pre id="com.exlyo.mapmarker.description_p_tag"></pre>
+Blocs du Puy Gros?]]></description>
+				<TimeStamp><when>2024-05-10T16:24:26Z</when>
+</TimeStamp>
+				<styleUrl>#mm_marker_color_161</styleUrl>
+				<ExtendedData>
+					<Data name="com_exlyo_mapmarker_piniconcode">
+						<value>-1</value>
+					</Data>
+					<Data name="com_exlyo_mapmarker_customfields">
+						<value>[]</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>2.813027054071426,45.51700068228401,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="17">
+				<name>Point d&apos;interrogation</name>
+				<description><![CDATA[<pre id="com.exlyo.mapmarker.description_p_tag">Les blocs de la vallée salée ?</pre>]]></description>
+				<TimeStamp><when>2024-05-10T16:25:25Z</when>
+</TimeStamp>
+				<styleUrl>#mm_marker_color_17</styleUrl>
+				<ExtendedData>
+					<Data name="com_exlyo_mapmarker_piniconcode">
+						<value>-1</value>
+					</Data>
+					<Data name="com_exlyo_mapmarker_customfields">
+						<value>[]</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>2.79896154999733,45.51388757614987,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Blocs du Baladou</name>
+			<LookAt>
+				<gx:TimeStamp><when>2024-05-10T15:52:51Z</when>
+</gx:TimeStamp>
+				<longitude>2.871634547307642</longitude>
+				<latitude>45.61441474757465</latitude>
+				<altitude>0</altitude>
+				<heading>16.07112046945477</heading>
+				<tilt>52.59662008817479</tilt>
+				<range>1017.996260017983</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<Placemark id="1">
+				<name>La Dent du Marais</name>
+				<description><![CDATA[<pre id="com.exlyo.mapmarker.description_p_tag">Plein d'itinéraires </pre><br/><img style="max-width:500px;" src="img_2024_04_07-16_57_16.jpg"/>]]></description>
+				<TimeStamp><when>2024-04-07T14:03:01Z</when>
+</TimeStamp>
+				<styleUrl>#mm_marker_color_1</styleUrl>
+				<ExtendedData>
+					<Data name="com_exlyo_mapmarker_images_with_ext">
+						<value>[{&quot;file_rel_path&quot;:&quot;local_media/img_2024_04_07-16_57_16.jpg&quot;,&quot;file_size&quot;:2937214,&quot;file_extension&quot;:&quot;.jpg&quot;}]</value>
+					</Data>
+					<Data name="com_exlyo_mapmarker_piniconcode">
+						<value>-1</value>
+					</Data>
+					<Data name="com_exlyo_mapmarker_customfields">
+						<value>[]</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>2.870916835963726,45.61345063493923,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="2">
+				<name>Marqueur 2</name>
+				<description><![CDATA[<pre id="com.exlyo.mapmarker.description_p_tag"></pre>]]></description>
+				<TimeStamp><when>2024-04-07T14:03:10Z</when>
+</TimeStamp>
+				<styleUrl>#mm_marker_color_2</styleUrl>
+				<ExtendedData>
+					<Data name="com_exlyo_mapmarker_piniconcode">
+						<value>-1</value>
+					</Data>
+					<Data name="com_exlyo_mapmarker_customfields">
+						<value>[]</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>2.871039882302284,45.61354585167273,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="3">
+				<name>Marqueur 3</name>
+				<description><![CDATA[<pre id="com.exlyo.mapmarker.description_p_tag"></pre>]]></description>
+				<TimeStamp><when>2024-04-07T14:03:16Z</when>
+</TimeStamp>
+				<styleUrl>#mm_marker_color_3</styleUrl>
+				<ExtendedData>
+					<Data name="com_exlyo_mapmarker_piniconcode">
+						<value>-1</value>
+					</Data>
+					<Data name="com_exlyo_mapmarker_customfields">
+						<value>[]</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>2.871103584766388,45.61355335643302,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="4">
+				<name>Marqueur 4</name>
+				<description><![CDATA[<pre id="com.exlyo.mapmarker.description_p_tag"></pre>]]></description>
+				<TimeStamp><when>2024-04-07T14:03:50Z</when>
+</TimeStamp>
+				<styleUrl>#mm_marker_color_4</styleUrl>
+				<ExtendedData>
+					<Data name="com_exlyo_mapmarker_piniconcode">
+						<value>-1</value>
+					</Data>
+					<Data name="com_exlyo_mapmarker_customfields">
+						<value>[]</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>2.870957739651203,45.61325269618769,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="5">
+				<name>Marqueur 5</name>
+				<description><![CDATA[<pre id="com.exlyo.mapmarker.description_p_tag"></pre>]]></description>
+				<TimeStamp><when>2024-04-07T14:08:37Z</when>
+</TimeStamp>
+				<styleUrl>#mm_marker_color_5</styleUrl>
+				<ExtendedData>
+					<Data name="com_exlyo_mapmarker_piniconcode">
+						<value>-1</value>
+					</Data>
+					<Data name="com_exlyo_mapmarker_customfields">
+						<value>[]</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>2.870088033378124,45.61335260374914,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="6">
+				<name>Marqueur 6</name>
+				<description><![CDATA[<pre id="com.exlyo.mapmarker.description_p_tag"></pre>]]></description>
+				<TimeStamp><when>2024-04-07T14:18:25Z</when>
+</TimeStamp>
+				<styleUrl>#mm_marker_color_6</styleUrl>
+				<ExtendedData>
+					<Data name="com_exlyo_mapmarker_piniconcode">
+						<value>-1</value>
+					</Data>
+					<Data name="com_exlyo_mapmarker_customfields">
+						<value>[]</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>2.870236895978451,45.61354256833977,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="7">
+				<name>Marqueur 7</name>
+				<description><![CDATA[<pre id="com.exlyo.mapmarker.description_p_tag">Dalette</pre><br/><img style="max-width:500px;" src="img_2024_04_07-16_25_56.jpg"/>]]></description>
+				<TimeStamp><when>2024-04-07T14:24:04Z</when>
+</TimeStamp>
+				<styleUrl>#mm_marker_color_7</styleUrl>
+				<ExtendedData>
+					<Data name="com_exlyo_mapmarker_images_with_ext">
+						<value>[{&quot;file_rel_path&quot;:&quot;local_media/img_2024_04_07-16_25_56.jpg&quot;,&quot;file_size&quot;:3789613,&quot;file_extension&quot;:&quot;.jpg&quot;}]</value>
+					</Data>
+					<Data name="com_exlyo_mapmarker_piniconcode">
+						<value>-1</value>
+					</Data>
+					<Data name="com_exlyo_mapmarker_customfields">
+						<value>[]</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>2.869614288210869,45.61376208217645,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="8">
+				<name>Marqueur 8</name>
+				<description><![CDATA[<pre id="com.exlyo.mapmarker.description_p_tag">Léger devers</pre><br/><img style="max-width:500px;" src="img_2024_04_07-16_25_07.jpg"/>]]></description>
+				<TimeStamp><when>2024-04-07T14:24:28Z</when>
+</TimeStamp>
+				<styleUrl>#mm_marker_color_8</styleUrl>
+				<ExtendedData>
+					<Data name="com_exlyo_mapmarker_images_with_ext">
+						<value>[{&quot;file_rel_path&quot;:&quot;local_media/img_2024_04_07-16_25_07.jpg&quot;,&quot;file_size&quot;:3022272,&quot;file_extension&quot;:&quot;.jpg&quot;}]</value>
+					</Data>
+					<Data name="com_exlyo_mapmarker_piniconcode">
+						<value>-1</value>
+					</Data>
+					<Data name="com_exlyo_mapmarker_customfields">
+						<value>[]</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>2.86976583302021,45.61370626570543,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="9">
+				<name>Marqueur 9</name>
+				<description><![CDATA[<pre id="com.exlyo.mapmarker.description_p_tag">Reta dur+ belle vue</pre>]]></description>
+				<TimeStamp><when>2024-04-07T14:27:22Z</when>
+</TimeStamp>
+				<styleUrl>#mm_marker_color_9</styleUrl>
+				<ExtendedData>
+					<Data name="com_exlyo_mapmarker_piniconcode">
+						<value>-1</value>
+					</Data>
+					<Data name="com_exlyo_mapmarker_customfields">
+						<value>[]</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>2.869492918252945,45.61360870400922,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="10">
+				<name>Marqueur 10</name>
+				<description><![CDATA[<pre id="com.exlyo.mapmarker.description_p_tag">Épicé recep mauvaise mais Sublime </pre><br/><img style="max-width:500px;" src="img_2024_04_07-16_31_38.jpg"/>]]></description>
+				<TimeStamp><when>2024-04-07T14:31:13Z</when>
+</TimeStamp>
+				<styleUrl>#mm_marker_color_10</styleUrl>
+				<ExtendedData>
+					<Data name="com_exlyo_mapmarker_images_with_ext">
+						<value>[{&quot;file_rel_path&quot;:&quot;local_media/img_2024_04_07-16_31_38.jpg&quot;,&quot;file_size&quot;:2598419,&quot;file_extension&quot;:&quot;.jpg&quot;}]</value>
+					</Data>
+					<Data name="com_exlyo_mapmarker_piniconcode">
+						<value>-1</value>
+					</Data>
+					<Data name="com_exlyo_mapmarker_customfields">
+						<value>[]</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>2.8684537,45.6132871,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="11">
+				<name>Marqueur 11</name>
+				<description><![CDATA[<pre id="com.exlyo.mapmarker.description_p_tag">Belle vue</pre>]]></description>
+				<TimeStamp><when>2024-04-07T14:33:57Z</when>
+</TimeStamp>
+				<styleUrl>#mm_marker_color_11</styleUrl>
+				<ExtendedData>
+					<Data name="com_exlyo_mapmarker_piniconcode">
+						<value>-1</value>
+					</Data>
+					<Data name="com_exlyo_mapmarker_customfields">
+						<value>[]</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>2.868897132575512,45.61299659430192,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="12">
+				<name>Marqueur 12</name>
+				<description><![CDATA[<pre id="com.exlyo.mapmarker.description_p_tag"></pre>]]></description>
+				<TimeStamp><when>2024-04-07T14:34:10Z</when>
+</TimeStamp>
+				<styleUrl>#mm_marker_color_12</styleUrl>
+				<ExtendedData>
+					<Data name="com_exlyo_mapmarker_piniconcode">
+						<value>-1</value>
+					</Data>
+					<Data name="com_exlyo_mapmarker_customfields">
+						<value>[]</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>2.868948094546795,45.61305241147925,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="13">
+				<name>Marqueur 13</name>
+				<description><![CDATA[<pre id="com.exlyo.mapmarker.description_p_tag"></pre>]]></description>
+				<TimeStamp><when>2024-04-07T14:34:16Z</when>
+</TimeStamp>
+				<styleUrl>#mm_marker_color_13</styleUrl>
+				<ExtendedData>
+					<Data name="com_exlyo_mapmarker_piniconcode">
+						<value>-1</value>
+					</Data>
+					<Data name="com_exlyo_mapmarker_customfields">
+						<value>[]</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>2.868890762329102,45.61303247677944,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="14">
+				<name>La MEGADALLE</name>
+				<description><![CDATA[<pre id="com.exlyo.mapmarker.description_p_tag">Méga Dalle</pre><br/><img style="max-width:500px;" src="img_2024_04_07-16_44_02.jpg"/>]]></description>
+				<TimeStamp><when>2024-04-07T14:43:26Z</when>
+</TimeStamp>
+				<styleUrl>#mm_marker_color_14</styleUrl>
+				<ExtendedData>
+					<Data name="com_exlyo_mapmarker_images_with_ext">
+						<value>[{&quot;file_rel_path&quot;:&quot;local_media/img_2024_04_07-16_44_02.jpg&quot;,&quot;file_size&quot;:2966035,&quot;file_extension&quot;:&quot;.jpg&quot;}]</value>
+					</Data>
+					<Data name="com_exlyo_mapmarker_piniconcode">
+						<value>-1</value>
+					</Data>
+					<Data name="com_exlyo_mapmarker_customfields">
+						<value>[]</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>2.870181910693645,45.61348206116964,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Blocs de Chaudefour</name>
+			<description>Les blocs de la vallée de Chaudefour (Rancune et ceux du champs)</description>
+			<Placemark>
+				<name>Point d&apos;exclamation</name>
+				<description>Blocs en barres pour la plupart hauts et dangeureux (en plus de leur difficulté élevée) Certains ont été solo par Thierry Mompied. Il existe quelques bloc plus simples et moins dangereux en contrebas.
+Location aproximative, mais les blocs sont plus à droite que le chemin standard pour la marche d&apos;approche de la Rancune.µ
+On peut tout de même y accéder en prenant le chemin qui descend de la face EST</description>
+				<LookAt>
+					<gx:TimeStamp><when>2024-05-10T15:52:51Z</when>
+</gx:TimeStamp>
+					<longitude>2.838321993134703</longitude>
+					<latitude>45.53578132898771</latitude>
+					<altitude>0</altitude>
+					<heading>-105.6821908279855</heading>
+					<tilt>59.06290851218239</tilt>
+					<range>458.1319886386705</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#mm_marker_color_1519</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>2.839093102111454,45.53601497038822,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Point d&apos;exclamation</name>
+				<description>Blocs déja grimpés pour certains, mais attention aux vaches</description>
+				<LookAt>
+					<gx:TimeSpan>
+						<begin>2024-04-07T14:03:01Z</begin>
+						<end>2024-05-10T16:25:25Z</end>
+					</gx:TimeSpan>
+					<longitude>2.87310786066012</longitude>
+					<latitude>45.54381866512527</latitude>
+					<altitude>0</altitude>
+					<heading>160.7951904424861</heading>
+					<tilt>66.07154513429477</tilt>
+					<range>548.2474450084392</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>2.872901913727053,45.54494946943184,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Random Sancy</name>
+			<description>Les isolés du sancy</description>
+			<Placemark>
+				<name>Point d&apos;interrogation</name>
+				<description>Marche d&apos;approche presque négative mais est-ce grimpable?</description>
+				<LookAt>
+					<gx:TimeStamp><when>2024-05-10T15:52:51Z</when>
+</gx:TimeStamp>
+					<longitude>2.868580556093264</longitude>
+					<latitude>45.56165180504083</latitude>
+					<altitude>0</altitude>
+					<heading>-149.7706865289338</heading>
+					<tilt>60.00214303780976</tilt>
+					<range>275.4982632434409</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#mm_marker_color_1555</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>2.868492009625325,45.56187667767038,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+	</Folder>
+</Document>
+</kml>
